@@ -12,7 +12,7 @@ Currently I'm diving into [*Flutter*](https://flutter.dev) and looking to expand
 | Code       | JavaScript                   | Medium       | 04/2021      |
 | Code       | Dart (Flutter)               | Beginner     | 07/2022      |
 | OS         | Windows (*all Versions*)     | Pro          | 08/2011      |
-| OS         | Linux (*Fedora, Ubuntu, Debian*) | Medium - Pro | 08/2018      |
+| OS         | Linux (*Fedora, Ubuntu, Debian, openSuse, Raspberry Pi OS*) | Medium - Pro | 08/2018      |
 | Database   | PostgreSQL                   | Medium       | 04/2020      |
 | Database   | SQLite                       | Medium       | 09/2020      |
 | Language   | German                       | Mother tongue | inherited    |
