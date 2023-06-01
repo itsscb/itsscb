@@ -1,5 +1,5 @@
 # About
-I'm a late career changer, fast learner and taught me everything I know about coding myself.
+Love to expand my horizon - especially with code. Learning is living and coding is life.
 
 # Skills
 ## Hard Skills
