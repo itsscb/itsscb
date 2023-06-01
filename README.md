@@ -8,8 +8,10 @@ Love to expand my horizon - especially with code. Learning is living and coding 
 | PowerShell                   | Advanced |
 | Python                       | Medium  |
 | Golang                       | Advanced |
-| Dart (Flutter)               | Beginner |
+| Rust             | Beginner |
 | git                          | Medium |
+| Typescript | Medium |
+| Angular | Medium |
 | JavaScript                   | Medium |
 | HTML                         | Medium |
 | CSS                          | Medium |
