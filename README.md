@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about writing code and building eff
 ### 🛠️ Tech Stack
 
 - **Backend:** Rust, Go
-- **Frontend:** Yew, Angular, Tailwind CSS
+- **Frontend:** Yew, Angular, Svelte
 - **Automation:** PowerShell (expert), Bash, Ansible
 - **OS:** NixOS (current), Comfortable with Debian, Fedora, Ubuntu, OpenSuse, Windows
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about writing code and building eff
 
 ### 🌱 Current Focus
 
-I'm currently transitioning from Go and Angular to Rust and WASM + Tailwind for most of my projects. I'm excited about the performance and safety benefits that Rust brings to both backend and frontend development.
+I'm currently transitioning from Go and Angular to Rust and WASM for most of my projects. I'm excited about the performance and safety benefits that Rust brings to both backend and frontend development.
 
 ### 💡 Fun Fact
 
