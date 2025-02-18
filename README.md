@@ -1,27 +1,18 @@
-# Hello there
-Love to expand my horizon - especially with code. Learning is living and coding is life.
-
-## 💻 Full-Stack Developer | 🦀 Rust Enthusiast | 🐧 Linux Aficionado
+## 💻 Software Developer | 🦀 Rust Enthusiast | 🐧 Linux Aficionado
 
 Welcome to my GitHub profile! I'm passionate about writing code and building efficient, robust applications.
 
 ### 🛠️ Tech Stack
 
 - **Backend:** Rust, Go
-- **Frontend:** Yew, Angular, Svelte
-- **Automation:** PowerShell (expert), Bash, Ansible
-- **OS:** NixOS (current), Comfortable with Debian, Fedora, Ubuntu, OpenSuse, Windows
+- **Frontend:** Yew, Angular
+- **Automation:** PowerShell, Bash, Rust
 
 ### 🚀 What I'm Up To
 
-- Exploring the Rust ecosystem and building web applications with Yew
-- Crafting efficient and maintainable backend services
-- Automating everything I can with PowerShell and Bash
-- Tinkering with NixOS and diving deep into the Linux world
-
-### 🌱 Current Focus
-
-I'm currently transitioning from Go and Angular to Rust and WASM for most of my projects. I'm excited about the performance and safety benefits that Rust brings to both backend and frontend development.
+- Exploring the Rust ecosystem and building applications
+- Crafting efficient and maintainable backend services and CLI tools
+- Automating everything I can
 
 ### 💡 Fun Fact
 
