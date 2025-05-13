@@ -1,12 +1,15 @@
 ## 💻 Software Developer | Rust | Go | Angular
 
-Given the current uncertainty in the U.S. and Microsoft’s black-box policies around GitHub code handling, I’ve deployed my own  [Gitea instance](https://git.itsscb.de/itsscb) and moved all my repos there.
+> **Important**: Given the current uncertainty in the U.S. and Microsoft’s black-box policies around GitHub code handling, I’ve deployed my own  [Gitea instance](https://git.itsscb.de/itsscb) and moved all my repos there.
 
-### 🛠️ Tech Stack
+Hello there! I’m a passionate software developer with a focus on building efficient, scalable systems using modern technologies. I enjoy working across the stack—from performant backend services to interactive frontend experiences.
 
-- **Backend:** Rust, Go
-- **Frontend:** Yew, Angular
-- **Automation:** PowerShell, Bash, Rust
+🛠️ Tech Stack Highlights:
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about code!
+Backend: Rust, Go
 
+Frontend: Angular, Yew (Rust-based)
+
+Automation & Scripting: PowerShell, Bash, Rust
+
+I’m always up for a good coding challenge and love exploring new tools and paradigms. Feel free to check out my repositories—whether you're interested in collaborating on a project, discussing ideas, or just geeking out about code, I’d love to connect!
